@@ -1,0 +1,17 @@
+package com.unitedcoder.javamethodtorial;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+
+//public class CustomerObjectMethods {
+    // login add customer delete customer edit customer
+
+  // public void logIn(loginuser user){
+    //    WebElement userNameField=driver.findElement(By.id("username"));
+      //  userNameField.sendKeys(user.get);
+        //WebElement paswordFiled=driver.findElement(By.id("password"));
+        //paswordFiled.sendKeys(password);
+       // WebElement loginButton=driver.findElement(By.id("login"));
+        //loginButton.click();
+   // }
+//}

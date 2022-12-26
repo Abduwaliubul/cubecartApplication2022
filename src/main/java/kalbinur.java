@@ -3,5 +3,5 @@ public class kalbinur {
 
         System.out.println(" uyghur man abduwali ");
 
-    }
+  System.out.println(" uyghur man abduwali ");  }
 }
